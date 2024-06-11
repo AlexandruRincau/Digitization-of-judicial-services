@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/config/connect.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/config/helper.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/config/save.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/login/home.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sablon/form.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vendor/cerere.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vendor/login.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vendor/pers_jur.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vendor/register.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vendor/update_date-pers.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/vendor/update_pers_jur.php" dialect="GenericSQL" />
+  </component>
+</project>
